@@ -1,5 +1,3 @@
 Click to View Resume (New Window): <a href="Zhaohan_Xiong_CV.pdf" target="_blank">Link</a>
 
-Click to Download Resume: [Link](https://github.com/zhaohanxiong/github_resume/raw/main/Zhaohan_Xiong_CV.pdf)
-
-
+<a href="Zhaohan_Xiong_CV.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
